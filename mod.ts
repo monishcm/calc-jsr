@@ -5,7 +5,7 @@
 */
 
 /**
- * 
+ * This function helps you add 2 numbers
  * @param a first number
  * @param b second number
  * @returns addition of a and b
@@ -15,7 +15,7 @@ export function add(a: number, b: number): number {
 }
 
 /**
- * 
+ * This function helps find the difference between 2 numbers
  * @param a first number
  * @param b second number
  * @returns difference of a and b
@@ -25,7 +25,7 @@ export function subtract(a: number, b: number): number {
 }
 
 /**
- * 
+ * This function helps find the product of 2 numbers
  * @param a first number
  * @param b second number
  * @returns product of a and b
@@ -35,7 +35,7 @@ export function multiply(a: number, b: number): number {
 }
 
 /**
- * 
+ * This function helps you divide 2 numbers
  * @param a first number
  * @param b second number
  * @returns division of a and b
