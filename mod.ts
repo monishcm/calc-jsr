@@ -1,10 +1,4 @@
 /**
-* This module contains functions to add / subtract / multiply and divide 2 numbers. 
-* @module
-* 
-*/
-
-/**
  * This function helps you add 2 numbers
  * @param a first number
  * @param b second number
